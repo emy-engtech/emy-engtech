@@ -6,7 +6,7 @@ Meu nome é Emilly Machado, sou Técnica em Informática pelo Instituto Federal 
 
 Ao longo da minha trajetória acadêmica no IFMA, participei de iniciativas nas áreas de robótica, astronomia e tecnologia, buscando unir conhecimento técnico, criatividade e impacto social. Tenho interesse em programação, desenvolvimento tecnológico, projetos acadêmicos e experiências que contribuam para o aprendizado contínuo e para a construção de soluções inovadoras.
 
-Este espaço reúne projetos, estudos e experiências que fazem parte da minha jornada na engenharia e na tecnologia. Em breve, mostrarei mais! ✨
+Este espaço reúne projetos e experiências que fazem parte da minha jornada na engenharia e na tecnologia. Em breve, mostrarei mais! ✨
 
 
 
